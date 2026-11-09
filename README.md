@@ -30,3 +30,15 @@ This repository documents my hands-on IT lab environment and showcases practical
 - Develop automation with PowerShell
 - Document IT support workflows
 - Prepare for an IT Support / Help Desk role
+## Repository Structure
+
+01-user-lifecycle
+- New Hire Onboarding
+
+Future Sections
+
+02-identity-management
+03-microsoft-365-administration
+04-help-desk-ticketing
+05-powershell-automation
+06-security-and-compliance
