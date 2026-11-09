@@ -1,5 +1,4 @@
-# modern-workplace-lab
-Modern workplace IT lab featuring Microsoft 365 administration, identity management, automation, and support workflows.
+
 Modern Workplace Lab
 A cloud-focused IT support lab demonstrating Microsoft 365 administration, Entra ID identity management, PowerShell automation, and help desk operations.
 
