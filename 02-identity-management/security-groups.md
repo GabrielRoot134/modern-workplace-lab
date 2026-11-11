@@ -38,27 +38,27 @@ Company: Apex Solutions
 
 ### All Users
 
-![All Users](../screenshots/all-users.png)
+![All Users](../screenshots/All-Users.png)
 
 ### All Groups
 
-![All Groups](../screenshots/all-groups.png)
+![All Groups](../screenshots/All-Groups.png)
 
 ### Marketing Team
 
-![Marketing Team](../screenshots/marketing-team-members.png)
+![Marketing Team](../screenshots/Marketing-Team-Members.png)
 
 ### Sales Team
 
-![Sales Team](../screenshots/sales-team-members.png)
+![Sales Team](../screenshots/Sales-Team-Members.png)
 
 ### Human Resources Team
 
-![HR Team](../screenshots/hr-team-members.png)
+![HR Team](../screenshots/HR-team-Members.png)
 
 ### IT Team
 
-![IT Team](../screenshots/it-team-members.png)
+![IT Team](../screenshots/IT-Team-Members.png)
 
 ## Outcome
 
